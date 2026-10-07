@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Profil</string>
+    <string name="title_login">Selamat Datang</string>
+    <string name="subtitle_login">Silakan masuk ke akun Anda</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">MASUK</string>
+    <string name="error_empty_fields">Username dan password tidak boleh kosong!</string>
+    <string name="error_invalid_credentials">Username atau password salah!</string>
+    <string name="title_main">Profil Saya</string>
+    <string name="profile_name">Gilang Rizky Ramadhan</string>
+    <string name="profile_role">Mahasiswa Teknik Informatika</string>
+    <string name="welcome_message">Selamat Datang, %1$s!</string>
+    <string name="welcome_message_default">Selamat Datang!</string>
+    <string name="btn_logout">LOGOUT</string>
+</resources>
